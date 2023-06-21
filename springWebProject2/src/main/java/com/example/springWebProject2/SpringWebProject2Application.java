@@ -8,6 +8,8 @@ public class SpringWebProject2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringWebProject2Application.class, args);
+		
+		System.out.println("spring boot started");
 	}
 
 }
